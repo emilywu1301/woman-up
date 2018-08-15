@@ -1,3 +1,8 @@
 html{
   background-color: pink;
 }
+
+h2 {
+    border-style: solid;
+    border-width: 5px;
+}
