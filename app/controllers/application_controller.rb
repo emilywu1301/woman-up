@@ -10,4 +10,17 @@ class ApplicationController < Sinatra::Base
   get '/' do
     return erb :index
   end
+  
+    get '/events' do
+    return erb :events 
+  end
+  
+    get '/programs' do
+    return erb :programs
+  end
+  
+    get '/resources' do
+    return erb :resources
+  end
+  
 end
