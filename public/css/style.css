@@ -4,9 +4,6 @@ html{
 
 .quotes {
   font-size: 35px;
-  border-style: solid;
-    border-width: 4px;
-    border-color: gray;
     font-family: 'Cedarville Cursive', cursive;
 }
 
@@ -30,6 +27,9 @@ h1{
 
 .navbar{
   font: 30px;
+   border-style: solid;
+    border-width: 4px;
+    border-color: gray;
 }
 
 p{
@@ -42,7 +42,42 @@ font-family: 'Share', cursive;
 h2{
 }
 
+/*EVENTS CSS*/
 
+.startup{
+  
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+.live_powerfully{
+  
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+.marathon{
+  
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+.black_tech{
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+.demo_night{
+  
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+.community_night{
+ border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
 
 
 
