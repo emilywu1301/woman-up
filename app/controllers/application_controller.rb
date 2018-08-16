@@ -9,6 +9,7 @@ class ApplicationController < Sinatra::Base
 
   get '/' do
     return erb :index
+
   end
   
     get '/events' do
@@ -22,5 +23,6 @@ class ApplicationController < Sinatra::Base
     get '/resources' do
     return erb :resources
   end
+
   
 end
