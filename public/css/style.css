@@ -28,6 +28,12 @@ h1{
   color: gray;
 }
 
+h5{
+   font-size: 60px;
+  font-family: 'Pacifico', cursive;
+  color: gray;
+}
+
 .heading{
   font-size: 40px;
   font-family: 'Pacifico', cursive;
@@ -45,6 +51,8 @@ h6{
    border-style: solid;
     border-width: 4px;
     border-color: gray;
+    
+    
 }
 
 p{
@@ -136,6 +144,17 @@ font-family: 'Share', cursive;
 .times_up{
   
  border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+}
+
+.blog{
+  font-size: 20px;
+  font-family: 'Satisfy', cursive;
+/*font-family: 'Shadows Into Light Two', cursive;*/
+font-family: 'Share', cursive;
+
+   border-style: solid;
     border-width: 4px;
     border-color: gray;
 }

@@ -24,5 +24,8 @@ class ApplicationController < Sinatra::Base
     return erb :resources
   end
 
+    get '/blog' do 
+      return erb :blog 
+    end 
   
 end
